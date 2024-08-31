@@ -1,0 +1,1 @@
+# spinner_risgister_app
